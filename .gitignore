@@ -1,11 +1,11 @@
 
 #--- Mac ---#
 .DS_Store
-/build
+build/
 
 #--- Win ---#
 *.sdf
 *.suo
 *.opensdf
-/Debug
-/Release
+Debug/
+Release/
